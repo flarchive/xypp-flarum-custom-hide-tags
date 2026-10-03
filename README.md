@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of xypp/flarum-custom-hide-tags.** Not for installation: use [Packagist](https://packagist.org/packages/xypp/flarum-custom-hide-tags) or the [upstream repository](https://github.com/zxy19/flarum-custom-hide-tags).
 
-**0** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/xypp-flarum-custom-hide-tags/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.2.0`
+**3** versions archived · Latest: [`v1.0.2`](https://github.com/flarchive/xypp-flarum-custom-hide-tags/tree/archive/v1.0.2) · License: `MIT` · Flarum: `^1.2.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `v1.0.0` | 2024-10-04 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-custom-hide-tags/tree/archive/v1.0.0) |
+| `v1.0.1` | 2024-10-04 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-custom-hide-tags/tree/archive/v1.0.1) |
+| `v1.0.2` | 2024-10-05 | `^1.2.0` | [Browse](https://github.com/flarchive/xypp-flarum-custom-hide-tags/tree/archive/v1.0.2) |
 
 Catalog entry: [packages/xypp-flarum-custom-hide-tags.json](https://github.com/flarchive/archive-index/blob/main/packages/xypp-flarum-custom-hide-tags.json)
 
